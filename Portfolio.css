@@ -1,0 +1,170 @@
+*{
+
+}
+#wrapper{
+ width: 970px;
+ background-color: rgb(108,87,103);
+ margin: 0px auto;
+ padding: 10 px;
+}
+.header{
+ height: 80px;
+ background-color: #DCDCDC;
+ padding: 5px 0px 5px 0px;
+ margin: 5px 0px 0px 0px;
+ width: 0px 0px 0px 0px;
+}
+.header h1{
+  font-size: 30px;
+  padding: 5px 0px 5px 0px;
+  margin: 5px 0px 0px 10px;
+  text-align: left;
+  display: inline-block;
+
+
+}
+.header h3{
+  font-size: 20px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  text-align: right;
+  display: inline-block;
+  width: 800px;
+
+}
+.about{
+ height: 315px;
+ width: 435px;
+ background-color: #d8bfd8;
+ display: inline-block;
+ vertical-align: top;
+ margin-top: 20px;
+}
+.about h2{
+  background-color: gray;
+  margin-top: 0px;
+  padding: 10px;
+}
+p{
+  padding: 10px;
+}
+a{
+  padding: 10px;
+  color: black;
+}
+.photo{
+    margin: 20px;
+    padding: 0px;
+    border: 8px solid gray;
+    display: inline-block;
+}
+.column{
+ height: auto;
+ width: 291px;
+ background-color: #d8bfd8;
+ display: inline-block;
+ margin-top: 20px;
+ margin-left: 20px;
+ vertical-align: top;
+}
+.column h2{
+  background-color: gray;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 10px;
+}
+.column img{
+  margin-top: 0px;
+  padding: 0px;
+  display: inline-block;
+}
+.column h3{
+  background-color: gray;
+  margin-top: 260px;
+  padding: 10px;
+}
+.column_icons img{
+  width: 40px;
+}
+.column_icons h3{
+  text-align: center;
+  font-size: 11px;
+  background-color: green;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 5px 5px 5px #888888;
+  border-radius: 10px;
+  width: 80px;
+  margin: 0px auto 20px auto;
+
+}
+.family{
+ height: auto;
+ width: 291px;
+ background-color: #d8bfd8;
+ display: inline-block;
+ margin-top: 20px;
+ margin-left: 20px;
+ vertical-align: top;
+}
+.family h2{
+  background-color: gray;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 10px;
+}
+.family img{
+  margin-top: 0px;
+  padding: 0px;
+  display: inline-block;
+  vertical-align: top;
+}
+.family h3{
+  background-color: gray;
+  margin-top: 260px;
+  padding: 10px;
+}
+.familyicons img{
+  width: 40px;
+}
+.five{
+ height: auto;
+ width: 291px;
+ background-color: #d8bfd8;
+ display: inline-block;
+ margin-top: 20px;
+ margin-left: 20px;
+ vertical-align: top;
+}
+.five h2{
+  background-color: gray;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 10px;
+}
+.five img{
+  margin-top: 0px;
+  padding: 0px;
+  display: inline-block;
+  vertical-align: top;
+}
+.five h3{
+  background-color: gray;
+  margin-top: 260px;
+  padding: 10px;
+}
+.fiveicons img{
+  width: 40px;
+}
+.footer{
+  background-color: #DCDCDC;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+.footer p{
+  color: black;
+}
+.footer img{
+  width: 20px;
+}
